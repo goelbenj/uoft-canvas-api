@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 To use with node:
 ```bash
-$ npm install node-canvas-api
+$ npm install uoft-canvas-api
 ```
 Then, in wherever you want to use this package:
 ```js
