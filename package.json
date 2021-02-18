@@ -1,5 +1,5 @@
 {
-  "name": "node-canvas-api",
+  "name": "uoft-canvas-api",
   "version": "1.0.0",
   "description": "Canvas LMS API for Node",
   "main": "src/index.js",
