@@ -15,7 +15,7 @@
   "files": [
     "src"
   ],
-  "author": "Justin Lee",
+  "author": "Benjamin Goel",
   "license": "MIT",
   "dependencies": {
     "bottleneck": "^2.19.4",
@@ -49,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ubccapico/node-canvas-api.git"
+    "url": "git+https://github.com/goelbenj/uoft-canvas-api"
   },
   "bugs": {
-    "url": "https://github.com/ubccapico/node-canvas-api/issues"
+    "url": "https://github.com/goelbenj/uoft-canvas-api/issues"
   },
-  "homepage": "https://github.com/ubccapico/node-canvas-api#readme"
+  "homepage": "https://github.com/goelbenj/uoft-canvas-api#readme"
 }
