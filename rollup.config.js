@@ -7,7 +7,7 @@ const config = {
   input: './source/index.js',
   output: {
     format: 'umd',
-    name: 'node-canvas-api'
+    name: 'uoft-canvas-api'
   },
   plugins: [
     resolve(),
