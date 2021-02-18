@@ -6,8 +6,8 @@
   "module": "es/index.js",
   "scripts": {
     "test": "jest --watch",
-    "build:umd": "NODE_ENV=development rollup -c -o dist/node-canvas-api.js",
-    "build:umd:min": "NODE_ENV=production rollup -c -o dist/node-canvas-api.min.js",
+    "build:umd": "SET NODE_ENV=development rollup -c -o dist/node-canvas-api.js",
+    "build:umd:min": "SET NODE_ENV=production rollup -c -o dist/node-canvas-api.min.js",
     "build:cjs": "cross-env BABEL_ENV=cjs babel source --out-dir src",
     "build": "npm run build:cjs",
     "clean": "rimraf src/* dist/*"
