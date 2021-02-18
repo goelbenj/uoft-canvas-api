@@ -24,6 +24,11 @@ const canvasAPI = require('uoft-canvas-api')
 ```
 
 Rename the `sample.env` file to `.env` and add your institution's domain and API access token.
+### For UofT: 
+```
+CANVAS_API_TOKEN={YOUR_TOKEN_FROM_QUERCUS}
+CANVAS_API_DOMAIN=https://q.utoronto.ca/api/v1
+```
 
 Attached to the `canvasAPI` are a [bunch of functions](https://github.com/goelbenj/uoft-canvas-api/tree/master/src).
 Run the attached functions!
