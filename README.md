@@ -1,4 +1,4 @@
-<a href="https://badge.fury.io/js/uoft-canvas-api"><img src="https://badge.fury.io/js/uoft-canvas-api.svg" alt="npm version" height="18"></a>
+<a href="https://badge.fury.io/js/uoft-canvas-api"><img src="https://badge.fury.io/js/uoft-canvas-api.svg" alt="npm version" height="20"></a>
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 
