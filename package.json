@@ -42,7 +42,7 @@
     "lms",
     "client",
     "api",
-    "instructure"
+    "instructure-canvas"
   ],
   "directories": {
     "test": "test"
